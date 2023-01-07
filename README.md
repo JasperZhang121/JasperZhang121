@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying at **Australian National University**
 
-- 📝 I regularly write my CS summary in [https://github.com/JasperZhang121/Vaults](https://github.com/JasperZhang121/Vaults)
+- 📝 I regularly write my CS notes in [https://github.com/JasperZhang121/Vaults](https://github.com/JasperZhang121/Vaults)
 
 - 📫 How to reach me **jasperzhang121@gmail.com**
 
