@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hao Zhang</h1>
-<h3 align="center">A guy knows some finance and computer science</h3>
+
+<h3 align="center">Man is a useless passion. It is meaningless that we live and it is meaningless that we die.</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/bAQH7WXKqtIBrPs7sR/200w.webp?cid=ecf05e47c6o4q6lgdezortf5h2bixodwa5f7rtade23jfnsg&rid=200w.webp&ct=g">
 
 
