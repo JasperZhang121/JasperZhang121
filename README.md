@@ -28,7 +28,7 @@
 <a href="https://forza.fandom.com/wiki/Forza_Horizon_5" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/8/86/Forza_Horizon_5_cover_art.jpg" alt="forza" width="40" height="40"/> </a>
 <a href="https://starcraft2.com/en-gb/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/2/20/StarCraft_II_-_Box_Art.jpg" alt="star" width="40" height="40"/> </a>
 <a href="https://www.playstation.com/en-au/games/the-last-of-us-part-i/" target="_blank" rel="noreferrer"> <img src="https://assets-prd.ignimgs.com/2022/06/09/the-last-of-us-part-1-button-1654791855870.jpg" alt="lastOF" width="40" height="40"/> </a>
-<a href="www.leagueoflegends.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYNVJRPOkAj1V7jF8AlbpcNf9P76zQPErQOHohGQeGO8-NtfWLg93ParigCG0sU3h_vc&usqp=CAU" alt="lol" width="40" height="40"/> </a>
+<a href="https://www.leagueoflegends.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYNVJRPOkAj1V7jF8AlbpcNf9P76zQPErQOHohGQeGO8-NtfWLg93ParigCG0sU3h_vc&usqp=CAU" alt="lol" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">The sticom I always watch:</h3>
