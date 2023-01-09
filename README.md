@@ -33,8 +33,10 @@
 <a href="https://www.leagueoflegends.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYNVJRPOkAj1V7jF8AlbpcNf9P76zQPErQOHohGQeGO8-NtfWLg93ParigCG0sU3h_vc&usqp=CAU" alt="lol" width="40" height="40"/> </a>
 </p>
 
+
 <h3 align="left">The sticom I always watch:</h3>
 <img align="center" alt="fullshow" width="1000" src="https://roost.nbcuni.com/bin/viewasset.html/content/dam/Peacock/Campaign/landingpages/library/theoffice/mainpage/office-social-min.png/_jcr_content/renditions/original">
 <img align="center" alt="scott" width="1000" src="https://pyxis.nymag.com/v1/imgs/8e5/268/645dd2866128b290f67d187e3edd7f80d9-28-the-office-michael-scott-no.rsocial.w1200.jpg">
 
-
+<h3 align="left">Contributions:</h3>
+![snake gif](https://github.com/JasperZhang121/JasperZhang121/blob/output/github-contribution-grid-snake.gif)
