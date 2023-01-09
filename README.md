@@ -2,6 +2,8 @@
 
 <h3 align="center">It is meaningless that we live and it is meaningless that we die.</h3>
 
+<img src="https://github.com/JasperZhang121/JasperZhang121/blob/output/github-contribution-grid-snake-dark.svg">
+
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/bAQH7WXKqtIBrPs7sR/200w.webp?cid=ecf05e47c6o4q6lgdezortf5h2bixodwa5f7rtade23jfnsg&rid=200w.webp&ct=g">
 
 
@@ -38,5 +40,6 @@
 <img align="center" alt="fullshow" width="1000" src="https://roost.nbcuni.com/bin/viewasset.html/content/dam/Peacock/Campaign/landingpages/library/theoffice/mainpage/office-social-min.png/_jcr_content/renditions/original">
 <img align="center" alt="scott" width="1000" src="https://pyxis.nymag.com/v1/imgs/8e5/268/645dd2866128b290f67d187e3edd7f80d9-28-the-office-michael-scott-no.rsocial.w1200.jpg">
 
-<h3 align="left">Contributions:</h3>
-![snake gif](https://github.com/JasperZhang121/JasperZhang121/blob/output/github-contribution-grid-snake.gif)
+
+
+
