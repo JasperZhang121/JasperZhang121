@@ -40,7 +40,7 @@
 
 <h3 align="left">The sticom I always watch:</h3>
 <img align="center" alt="fullshow" width="1000" src="https://roost.nbcuni.com/bin/viewasset.html/content/dam/Peacock/Campaign/landingpages/library/theoffice/mainpage/office-social-min.png/_jcr_content/renditions/original">
-<img align="center" alt="scott" width="1000" src="https://pyxis.nymag.com/v1/imgs/8e5/268/645dd2866128b290f67d187e3edd7f80d9-28-the-office-michael-scott-no.rsocial.w1200.jpg">
+
 
 
 
