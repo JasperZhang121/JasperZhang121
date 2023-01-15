@@ -39,7 +39,7 @@
 
 
 <h3 align="left">The sticom I always watch:</h3>
-<img align="center" alt="fullshow" width="1000" src="https://roost.nbcuni.com/bin/viewasset.html/content/dam/Peacock/Campaign/landingpages/library/theoffice/mainpage/office-social-min.png/_jcr_content/renditions/original">
+<a href="https://www.imdb.com/title/tt0386676/" target="_blank" rel="noreferrer">  <img align="center" alt="fullshow" width="1000" src="https://roost.nbcuni.com/bin/viewasset.html/content/dam/Peacock/Campaign/landingpages/library/theoffice/mainpage/office-social-min.png/_jcr_content/renditions/original"> </a>
 
 
 
