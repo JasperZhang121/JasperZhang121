@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hao Zhang</h1>
+<h1 align="center">Hi 👋, I'm Hao Zhang </h1>
 
-<h3 align="center">It is meaningless that we live and it is meaningless that we die.</h3>
+<h3 align="center">“Man is a useless passion. It is meaningless that we live and it is meaningless that we die.” </h3>
 
 <img src="https://github.com/JasperZhang121/JasperZhang121/blob/output/github-contribution-grid-snake.svg">
 
