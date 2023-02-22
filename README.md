@@ -23,6 +23,15 @@
 <p align="left">
 </p>
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JasperZhang121&repo=Vaults)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JasperZhang121&repo=Algorithm)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JasperZhang121&repo=Write_an_Operating_System)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JasperZhang121&repo=QuantitativeFin_JupyterNote_practices)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JasperZhang121&repo=Linux_Shell_GCC_Cmake)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JasperZhang121&repo=Cpp)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
