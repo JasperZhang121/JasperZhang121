@@ -17,7 +17,7 @@
 
 - 🔑 *Unlocking* **solutions** with code in **[https://leetcode.com/JasperZhang121/](https://leetcode.com/JasperZhang121/)**
 
-- 📫 **Reach me** to *chat* in **Fin or CS** by **jasperzhang121@gmail.com**
+- 📫 **Reach me** to *chat* in **Fin or CS** by &nbsp; **jasperzhang121@gmail.com**
 
 
 <p align="left">
