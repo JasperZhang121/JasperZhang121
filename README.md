@@ -19,7 +19,7 @@
 
 - 📫 **Reach me** to *chat* in 😄 **Fin or CS** by 
 
-$nbsp;$nbsp; **jasperzhang121@gmail.com**
+&nbsp;**jasperzhang121@gmail.com**
 
 
 <p align="left">
