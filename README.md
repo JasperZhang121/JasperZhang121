@@ -7,11 +7,17 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/bAQH7WXKqtIBrPs7sR/200w.webp?cid=ecf05e47c6o4q6lgdezortf5h2bixodwa5f7rtade23jfnsg&rid=200w.webp&ct=g">
 
 
-- 🔭 I’m currently studying at **Australian National University**
+- 🔭 Currently *studying* at **Australian National University**
 
-- 📝 I regularly write my CS notes in [https://github.com/JasperZhang121/Vaults](https://github.com/JasperZhang121/Vaults)
+- 🤪 **Love triangle** with 😍 **C++**, 🐍 **Python**, and ☕ **Java**
 
-- 📫 How to reach me **jasperzhang121@gmail.com**
+- 💘 *Captivated* by the 📂 **art of command line**
+
+- 📝 Regularly *write* my **CS notes** in **[https://github.com/JasperZhang121/Vaults](https://github.com/JasperZhang121/Vaults)**
+
+- 🔑 *Unlocking* **solutions** with code in **[https://leetcode.com/JasperZhang121/](https://leetcode.com/JasperZhang121/)**
+
+- 📫 **Reach me** to *chat* in **Fin or CS** by **jasperzhang121@gmail.com**
 
 
 <p align="left">
