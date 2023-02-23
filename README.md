@@ -13,11 +13,11 @@
 
 - 💘 *Captivated* by the 📂 **art of command line**
 
-- 📝 Regularly *write* my **CS notes** in **[Vaults](https://github.com/JasperZhang121/Vaults)**
+- 📝 Regularly *write* my 📔 **CS notes** in **[Vaults](https://github.com/JasperZhang121/Vaults)**
 
-- 🔑 *Unlocking* **solutions** with code in **[Leetcode](https://leetcode.com/JasperZhang121/)**
+- 🔑 *Unlocking* 🛠️ **solutions** with code in **[Leetcode](https://leetcode.com/JasperZhang121/)**
 
-- 📫 **Reach me** to *chat* **jasperzhang121@gmail.com** 
+- 📫 **Reach me** to 🥂 *chat* **jasperzhang121@gmail.com** 
 
 
 <p align="left">
