@@ -19,6 +19,9 @@
 
 - 📫 **Reach me** to 🥂 *chat* **jasperzhang121@gmail.com** 
 
+- 🙋‍♂️ **Connect** me and 🙇 **check** my experience: **[Linkedin](
+linkedin.com/in/hao-zhang-422b33219)**
+
 
 <p align="left">
 </p>
