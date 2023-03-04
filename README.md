@@ -57,6 +57,6 @@ https://www.linkedin.com/in/hao-zhang-422b33219/)**
 <a href="https://www.imdb.com/title/tt0386676/" target="_blank" rel="noreferrer">  <img align="center" alt="fullshow" width="1000" src="https://roost.nbcuni.com/bin/viewasset.html/content/dam/Peacock/Campaign/landingpages/library/theoffice/mainpage/office-social-min.png/_jcr_content/renditions/original"> </a>
 
 
-<h3 align="left">😃 😉 😊 😚 🤗 🤭 🥰 😍 🤩 🙃 😇 Only the paranoid survive. 🍂 🍁 💋 💯 💥 💝 🛑 ⛽ 🌹 🎯 🚨 </h3>
+<h3 align="left">🌔 🌔 🌔 🌔 🌔 🌔 🌔 🌔 🌔 🌔 🌔 🌔 ONLY THE PARANOID SURVIVE. 🌖 🌖 🌖 🌖 🌖 🌖 🌖 🌖 🌖 🌖 🌖 🌖 </h3>
 
 
