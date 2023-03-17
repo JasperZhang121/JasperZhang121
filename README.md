@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hao Zhang </h1>
+<h1 align="center"> 404. That's an error. </h1>
 
 <h3 align="center">“Man is a useless passion. It is meaningless that we live and it is meaningless that we die.” </h3>
 
