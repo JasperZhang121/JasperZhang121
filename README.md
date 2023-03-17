@@ -4,7 +4,7 @@
 
 <img src="https://github.com/JasperZhang121/JasperZhang121/blob/output/github-contribution-grid-snake.svg">
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/bAQH7WXKqtIBrPs7sR/200w.webp?cid=ecf05e47c6o4q6lgdezortf5h2bixodwa5f7rtade23jfnsg&rid=200w.webp&ct=g">
+<img align="right" alt="Coding" width="400" src="https://yoast.com/app/uploads/2016/10/404_error_checking_FI.jpg">
 
 
 - 🔭 Currently *studying* at **Australian National University**
