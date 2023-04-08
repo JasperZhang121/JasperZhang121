@@ -4,7 +4,7 @@
 
 <img src="https://github.com/JasperZhang121/JasperZhang121/blob/output/github-contribution-grid-snake.svg">
 
-<img align="right" alt="Coding" width="400" src="https://yoast.com/app/uploads/2016/10/404_error_checking_FI.jpg">
+<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b3bf719-8603-4211-a054-1e161ce09a89/dfdha36-748350b3-4ae5-460d-8c89-0b2ad311e23f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFiM2JmNzE5LTg2MDMtNDIxMS1hMDU0LTFlMTYxY2UwOWE4OVwvZGZkaGEzNi03NDgzNTBiMy00YWU1LTQ2MGQtOGM4OS0wYjJhZDMxMWUyM2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ds_ns0-JngFV9dkezsvgN-p2SDSbgIZfjEH2JY4Z9nA">
 
 
 - 🔭 Currently *studying* at **Australian National University**
