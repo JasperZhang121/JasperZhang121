@@ -4,7 +4,7 @@
 
 <img src="https://github.com/JasperZhang121/JasperZhang121/blob/output/github-contribution-grid-snake.svg">
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/8e/39/4b/8e394bf3d08b650fd7526112f27c4aae--witcher--wild-hunt-the-witcher-.jpg">
+<img align="right" alt="Coding" width="400" src="https://sportshub.cbsistatic.com/i/2022/05/16/bd04637b-b4d9-40bb-ba70-7098b94e8c59/cyberpunk-edgerunnewr.png">
 
 
 - 🔭 Currently *studying* at **Australian National University**
