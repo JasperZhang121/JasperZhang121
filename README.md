@@ -1,6 +1,6 @@
 <h1 align="center"> Chippin' In: A Codepunk Tale </h1>
 
-<h3 align="center">Coding is a useless passion. It is meaningless that we code and it is meaningless that we stop, but we do it anyway.</h3>
+<h3 align="center">Coding is a useless passion. It is meaningless that we code or stop, but we do it anyway.</h3>
 
 <img src="https://github.com/JasperZhang121/JasperZhang121/blob/output/github-contribution-grid-snake.svg">
 
