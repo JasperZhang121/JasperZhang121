@@ -4,7 +4,7 @@
 
 <img src="https://github.com/JasperZhang121/JasperZhang121/blob/output/github-contribution-grid-snake.svg">
 
-<img align="right" alt="Coding" height="250" width="400" src="https://georgetownvoice.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-04-at-2.40.14-PM.png">
+<img align="right" alt="Coding" height="250" width="380" src="https://georgetownvoice.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-04-at-2.40.14-PM.png">
 
 
 - 🔭 Currently *studying* at **Australian National University**
