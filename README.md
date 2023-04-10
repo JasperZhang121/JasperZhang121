@@ -4,7 +4,7 @@
 
 <img src="https://github.com/JasperZhang121/JasperZhang121/blob/output/github-contribution-grid-snake.svg">
 
-<img align="right" alt="Coding" height="210" width="380" src="https://wallpaperset.com/w/full/a/e/8/505504.jpg">
+<img align="right" alt="Coding" height="210" width="380" src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif">
 
 
 - 🔭 Currently *studying* at **Australian National University**
