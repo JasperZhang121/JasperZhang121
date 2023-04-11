@@ -1,6 +1,6 @@
-<h1 align="center"> Chippin' In: A Codepunk Tale </h1>
+<h1 align="center"> <i>Chippin' In: A Codepunk Tale</i> </h1>
 
-<h3 align="center">Coding is a useless passion. It is meaningless that we code or stop, but we do it anyway.</h3>
+<h3 align="center"> <i>Coding is a useless passion. It is meaningless that we code or stop, but we do it anyway.</i> </h3>
 
 <img src="https://github.com/JasperZhang121/JasperZhang121/blob/output/github-contribution-grid-snake.svg">
 
@@ -27,7 +27,7 @@
 </p>  
   
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> <i>Languages and Tools:</i> </h3>
 <p align="left"> 
  
  <img align="right" alt="Coding" height="230" width="380" src="https://i.pinimg.com/originals/2e/73/f5/2e73f54bfd969a264820b1b9f5253db8.gif">
@@ -36,7 +36,7 @@
 
 </p>
 
-<h3 align="left">Platforms and Favorite Games:</h3>
+<h3 align="left"> <i>Platforms and Favorite Games:</i> </h3>
 
 <p align="left"> <a href="https://store.steampowered.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" alt="steam" width="40" height="40"/> </a> 
 <a href="https://www.nintendo.com.au/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-128/nintendo-2296041-1912000.png" alt="nintendo" width="40" height="40"/> </a>
