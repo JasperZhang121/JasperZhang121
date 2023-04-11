@@ -53,7 +53,7 @@
 </p>
 
 <p>
-  <br/>
+
 </p>    
 
 <img height="10" width="1000" src="https://i.pinimg.com/564x/9f/de/42/9fde4268bbe494bbc5dd49f4418934cd.jpg">
