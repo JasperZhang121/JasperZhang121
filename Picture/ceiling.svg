@@ -1,0 +1,30 @@
+
+            <svg width="854" height="30" viewBox="0 0 854 30" xmlns="http://www.w3.org/2000/svg">
+                <style>
+                            .text {
+						font-size: 70px;
+						font-weight: 700;
+						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+					}
+					.desc {
+						font-size: 20px;
+						font-weight: 500;
+						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+					}
+                            
+                        </style>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 30">
+                    
+                                <defs>
+					<linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+						<stop offset="0%" stop-color="#b579da"/><stop offset="100%" stop-color="#79da7f"/>
+					</linearGradient>
+				</defs>
+				
+                                <path fill="url(#linear)"  fill-opacity="1" d="M 0 -65 C 61 57 61 57 122 -65 C 183 57 183 57 244 -65 C 305 57 305 57 366 -65 C 427 57 427 57 488 -65 C 549 57 549 57 610 -65 C 671 57 671 57 732 -65 C 793 57 793 57 854 -65  L 854 0 L 0 0 L 0 305 "></path>
+                </svg>
+                
+                        
+                 
+            </svg>
+        
