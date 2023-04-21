@@ -61,7 +61,7 @@
 
 <p align="center">
   <img align="left" width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jasperzhang121&theme=algolia" alt="jasperzhang121's GitHub Repositories per Language" />
-  <img align="right" width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jasperzhang121&theme=algolia" alt="jasperzhang121's GitHub Stats" />
+  <img align="right" width="280" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jasperzhang121&theme=algolia" alt="jasperzhang121's GitHub Stats" />
   <img align="center" width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jasperzhang121&theme=algolia" alt="jasperzhang121's Productive Time" />
 </p>
 
