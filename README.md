@@ -58,12 +58,11 @@
 
 <img height="10" width="1000" src="https://i.pinimg.com/564x/9f/de/42/9fde4268bbe494bbc5dd49f4418934cd.jpg">
 
+<img align="center"  src="https://github.com/JasperZhang121/JasperZhang121/blob/main/Picture/wrapped_JasperZhang121.png" alt="jasperzhang121's GitHub Stats" />
+
 <p align="center">
   <img align="center" width="270" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jasperzhang121&theme=algolia" alt="jasperzhang121's GitHub Repositories per Language" />
   <img align="center" width="270" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jasperzhang121&theme=algolia" alt="jasperzhang121's Productive Time" />
   <img align="center" width="270" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jasperzhang121&theme=algolia" alt="jasperzhang121's GitHub Stats" />
 </p>
-
-
-
 
