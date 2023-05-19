@@ -50,6 +50,10 @@
 <a href="https://starcraft2.com/en-gb/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/2/20/StarCraft_II_-_Box_Art.jpg" alt="star" width="40" height="40"/> </a>
 <a href="https://www.playstation.com/en-au/games/the-last-of-us-part-i/" target="_blank" rel="noreferrer"> <img src="https://assets-prd.ignimgs.com/2022/06/09/the-last-of-us-part-1-button-1654791855870.jpg" alt="lastOF" width="40" height="40"/> </a>
 <a href="https://www.leagueoflegends.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYNVJRPOkAj1V7jF8AlbpcNf9P76zQPErQOHohGQeGO8-NtfWLg93ParigCG0sU3h_vc&usqp=CAU" alt="lol" width="40" height="40"/> </a>
+<a href="https://www.nintendo.com.au/games/nintendo-switch/the-legend-of-zelda-tears-of-the-kingdom" target="_blank" rel="noreferrer"> <img src="https://i.etsystatic.com/10064703/r/il/55e1fd/4164589516/il_fullxfull.4164589516_t0eu.jpg" alt="tears of kindom" width="40" height="40"/> </a>
+<a href="https://store.steampowered.com/app/374320/DARK_SOULS_III/" target="_blank" rel="noreferrer"> <img src="https://image.api.playstation.com/cdn/EP0700/CUSA03365_00/OFMeAw2KhrdaEZAjW1f3tCIXbogkLpTC.png" alt="soul 3" width="40" height="40"/> </a>
+
+  
 </p>
 
 <p>
