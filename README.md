@@ -4,7 +4,7 @@
 
 <img src="https://github.com/JasperZhang121/JasperZhang121/blob/output/github-contribution-grid-snake.svg">
 
-<img align="right" alt="Lucy" height="240" width="380" src="https://github.com/JasperZhang121/JasperZhang121/blob/main/Picture/lucas-gallo-olho.gif">
+<img align="right" alt="Lucy" height="240" width="380" src="https://github.com/JasperZhang121/JasperZhang121/blob/main/Picture/lucy_1.gif">
 
 
 - 🔭 Currently *studying* at **Australian National University**
