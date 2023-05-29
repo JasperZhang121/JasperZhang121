@@ -11,6 +11,8 @@
 
 - 🤪 **Love triangle** with 😍 **C++**, 🐍 **Python**, and ☕ **Java**
 
+- 💘 *Captivated* by the 📂 **art of command line**
+
 - 📝 Regularly *write* my 📔 **CS notes** in **[Vaults](https://github.com/JasperZhang121/Vaults)**
 
 - 🔑 *Unlocking* 🛠️ **solutions** with code in **[Leetcode](https://leetcode.com/JasperZhang121/)**
