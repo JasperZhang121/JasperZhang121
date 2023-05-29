@@ -4,7 +4,7 @@
 
 <img src="https://github.com/JasperZhang121/JasperZhang121/blob/output/github-contribution-grid-snake.svg">
 
-<img align="right" alt="Lucy" height="240" width="380" src="https://media.tenor.com/b9VJcecqEugAAAAd/cyberpunk-cyberpunk-anime.gif">
+<img align="right" alt="Lucy" height="240" width="380" src="https://github.com/JasperZhang121/JasperZhang121/blob/main/Picture/c_g.gif">
 
 
 - 🔭 Currently *studying* at **Australian National University**
