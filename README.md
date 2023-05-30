@@ -70,9 +70,9 @@
 <img height="10" width="1000" src="https://github.com/JasperZhang121/JasperZhang121/blob/main/Picture/green_strip.jpg">
 
 <p align="center">
-  <img align="center" width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jasperzhang121&theme=vue" alt="jasperzhang121's GitHub Repositories per Language" />
-  <img align="center" width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jasperzhang121&theme=vue" alt="jasperzhang121's Productive Time" />
-  <img align="center" width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jasperzhang121&theme=vue" alt="jasperzhang121's GitHub Stats" />
+  <img align="center" width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jasperzhang121&theme=transparent" alt="jasperzhang121's GitHub Repositories per Language" />
+  <img align="center" width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jasperzhang121&theme=transparent" alt="jasperzhang121's Productive Time" />
+  <img align="center" width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jasperzhang121&theme=transparent" alt="jasperzhang121's GitHub Stats" />
 </p>
 
 <img src="https://github.com/JasperZhang121/JasperZhang121/blob/main/Picture/marquee.svg">
