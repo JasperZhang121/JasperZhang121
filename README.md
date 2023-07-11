@@ -11,7 +11,7 @@
 
 - 🤪 **Love triangle** with 😍 **C++**, 🐍 **Python**, and ☕ **Java**
 
-- 💘 *Captivated* by the 📂 **art of command line**
+- 💘 *Embarking* on journey with 🐹 **Go** and 🦀 **Rust** 
 
 - 📝 Regularly *write* my 📔 **CS notes** in **[Vaults](https://github.com/JasperZhang121/Vaults)**
 
