@@ -15,7 +15,7 @@
 
 - 📝 Regularly *write* my 📔 **CS notes** in **[Vaults](https://github.com/JasperZhang121/Vaults)**
 
-- 🔑 **Conquer** on **[Leetcode](https://leetcode.com/JasperZhang121/)** ➕ 🎡 **Discover** adventures at **[Kaggle](https://www.kaggle.com/jasperzhang121)** 
+- 🔑 **Conquer** on **[Leetcode](https://leetcode.com/JasperZhang121/)** ➕ **Discover** adventures at **[Kaggle](https://www.kaggle.com/jasperzhang121)** 
 
 - 📫 **Reach me** to 🥂 *chat* by **jasperzhang121@gmail.com** 
 
