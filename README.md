@@ -7,7 +7,7 @@
 <img align="right" alt="Lucy" height="240" width="380" src="https://github.com/JasperZhang121/JasperZhang121/blob/main/Picture/w_coding.gif">
 
 
-- 🔭 Currently *studying* at **Australian National University**
+- 🎓 Holder of **[B.Fin](https://programsandcourses.anu.edu.au/program/bfinn)** and **[M.Comp](https://programsandcourses.anu.edu.au/2024/program/7706xmcomp#:~:text=The%20Master%20of%20Computing%20requires,courses%20included%20in%20the%20Specialisations.&text=24%20units%20from%20the%20completion,Artificial%20Intelligence)** from **Australian National University**
 
 - 🤪 **Love triangle** with 😍 **C++**, 🐍 **Python**, and ☕ **Java**
 
