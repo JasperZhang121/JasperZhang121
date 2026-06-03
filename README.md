@@ -43,7 +43,11 @@
     <td><a href="https://www.java.com" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></td>
     <td><a href="https://go.dev/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/></a></td>
     <td><a href="https://www.rust-lang.org/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/></a></td>
+  <td><a href="https://www.scala-lang.org/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/></a></td>
+  <td><a href="https://spark.apache.org/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="apache spark" width="40" height="40"/></a></td>
+  <td><a href="https://hadoop.apache.org/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/></a></td>
   </tr>
+   
   <tr>
     <td><a href="https://www.postgresql.org" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a></td>
     <td><a href="https://www.mysql.com/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
@@ -55,6 +59,10 @@
     <td><a href="https://pytorch.org/" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a></td>
     <td><a href="https://www.r-project.org/" rel="noreferrer"><img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/></a></td>
     <td><a href="https://www.mathworks.com/products/matlab.html" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/></a></td>
+  <td><a href="https://spring.io/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></a></td>
+  <td><a href="https://redis.io/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/></a></td>
+  <td><a href="https://www.elastic.co/elasticsearch/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/></a></td>
+
   </tr>
 </table>
 
@@ -78,7 +86,11 @@
     <td><a href="https://witcher.fandom.com/wiki/The_Witcher_3:_Wild_Hunt" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Witcher_3_cover_art.jpg" alt="witcher 3" width="40" height="40"/></a></td>
     <td><a href="https://forza.fandom.com/wiki/Forza_Horizon_5" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/8/86/Forza_Horizon_5_cover_art.jpg" alt="forza horizon 5" width="40" height="40"/></a></td>
     <td><a href="https://starcraft2.com/en-gb/" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/2/20/StarCraft_II_-_Box_Art.jpg" alt="starcraft 2" width="40" height="40"/></a></td>
+  <td><a href="https://www.supergiantgames.com/games/hades/" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/c/cc/Hades_cover_art.jpg" alt="hades" width="40" height="40"/></a></td>
+  <td><a href="https://www.residentevil.com/re4/" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/d/df/Resident_Evil_4_remake_cover_art.jpg" alt="resident evil 4 remake" width="40" height="40"/></a></td>
+  <td><a href="https://www.sekirothegame.com/" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/6/6e/Sekiro_art.jpg" alt="sekiro" width="40" height="40"/></a></td>
   </tr>
+  
   <tr>
     <td><a href="https://www.playstation.com/en-au/games/the-last-of-us-part-i/" rel="noreferrer"><img src="https://assets-prd.ignimgs.com/2022/06/09/the-last-of-us-part-1-button-1654791855870.jpg" alt="the last of us" width="40" height="40"/></a></td>
     <td><a href="https://www.leagueoflegends.com/en-au/" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYNVJRPOkAj1V7jF8AlbpcNf9P76zQPErQOHohGQeGO8-NtfWLg93ParigCG0sU3h_vc&usqp=CAU" alt="league of legends" width="40" height="40"/></a></td>
@@ -90,6 +102,9 @@
     <td><a href="https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/4/44/Red_Dead_Redemption_II.jpg" alt="red dead redemption 2" width="40" height="40"/></a></td>
     <td><a href="https://www.cyberpunk.net/au/en/" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg" alt="cyberpunk 2077" width="40" height="40"/></a></td>
     <td><a href="https://www.nintendo.com.au/games/nintendo-switch/the-legend-of-zelda-tears-of-the-kingdom" rel="noreferrer"><img src="https://i.etsystatic.com/10064703/r/il/55e1fd/4164589516/il_fullxfull.4164589516_t0eu.jpg" alt="tears of the kingdom" width="40" height="40"/></a></td>
+  <td><a href="https://en.bandainamcoent.eu/elden-ring/elden-ring" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Elden_Ring_Box_art.jpg" alt="elden ring" width="40" height="40"/></a></td>
+  <td><a href="https://www.monsterhunter.com/" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/1/1b/Monster_Hunter_World_cover_art.jpg" alt="monster hunter world" width="40" height="40"/></a></td>
+  <td><a href="https://www.rockstargames.com/gta-v" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png" alt="gta v" width="40" height="40"/></a></td>
   </tr>
 </table>
 
@@ -101,11 +116,11 @@
 
 <img height="10" width="1000" src="https://github.com/JasperZhang121/JasperZhang121/blob/main/Picture/green_strip.jpg">
 
-<p align="center">
+<!-- <p align="center">
   <img align="center" width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jasperzhang121&theme=transparent" alt="jasperzhang121's GitHub Repositories per Language" />
   <img align="center" width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jasperzhang121&theme=transparent" alt="jasperzhang121's Productive Time" />
   <img align="center" width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jasperzhang121&theme=transparent" alt="jasperzhang121's GitHub Stats" />
-</p>
+</p> -->
 
 <img src="https://github.com/JasperZhang121/JasperZhang121/blob/main/Picture/marquee.svg">
 
